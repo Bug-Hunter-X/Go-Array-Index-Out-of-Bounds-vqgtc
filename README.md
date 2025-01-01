@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Go: accessing an array index that is out of bounds. The `bug.go` file contains code that produces this error. The `bugSolution.go` file shows the corrected version.
